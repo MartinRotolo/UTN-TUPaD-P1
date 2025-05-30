@@ -93,7 +93,7 @@ print(compras)
 # ● Posición lista_anidada[2][1]: 57.9
 # ● Posición lista_anidada[2][2]: 30.6
 # ● Posición lista_anidada[3]: False
-# Imprimir la lista resultante por pantalla.
+# Imprimir la lista resultante por pantalla. 
 
 lista_anidada = [15,True,[25.5,57.9,30.6],False]
 print(lista_anidada)
