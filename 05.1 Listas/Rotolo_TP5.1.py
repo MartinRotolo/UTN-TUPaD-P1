@@ -11,7 +11,7 @@ print(multiplos_de_4)
 # penúltimo. ¡Puedes hacerlo como se muestra en los videos o bien investigar cómo funciona el
 # indexing con números negativos!
 
-lista_5 = ["Perro",3,"Blanco",4.5,False,-10]
+lista_5 = ["Perro",3,"Blanco",4.5,False]
 print(lista_5[-2])
 
 # 3) Crear una lista vacía, agregar tres palabras con append e imprimir la lista resultante por
